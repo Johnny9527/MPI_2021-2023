@@ -9,9 +9,16 @@
 * I've put some of my works in this repository, please refers to other files for further information.
 
   * Code Development:
-  
-    * 123
+      * REST API for ThingWorx.
+      * Read analysis file data in real-time.
+      * Parse XML file and upload data to ThingWorx through the MQTT broker.
 
+  * Client Training:
+      * Caster trial data upload, view, and analyse.
+
+  * Platform Optimization:
+      * NPP dashboard.
+      * ThingWorx analytics 9 installation.
 
 ### Disclaimer:
 
