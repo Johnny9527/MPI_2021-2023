@@ -6,8 +6,8 @@
 
 * During my time at the Institute, I was involved in several projects, mainly focusing on optimizing the production processes of our clients using the latest digital technologies, such as Industrial 4.0 and Digital Twins. In other words, my job is to create a secure and efficient connection between the physical and digital worlds, which also means I have solid experience in both hardware and software.
 
-  * For more information, please refers to "MyInternalTraining.md: https://github.com/Johnny9527/ASECL_2017-2019/blob/main/MyInternalTraining.md" and "MyCustomizedFunctions.md: https://github.com/Johnny9527/ASECL_2017-2019/blob/main/MyCustomizedFunctions.md"
+* I've put some of my works in this repository, please refers to other files for further information.
 
 ### Disclaimer:
 
-* For further information, please refers to other files. However, according to the Non-disclosure agreement (NDA), I am not allowed to share confidential documents or code to the public. Therefore, I will only share part of my works in this depository. For the code and information I shared, will not affect the regular operation or profit of MPI.
+* For further information, please refers to other files. However, according to the Non-disclosure agreement (NDA), I am not allowed to share confidential documents or code to the public. Therefore, I will only share part of my works in this repository. For the code and information I shared, will not affect the regular operation or profit of MPI.
