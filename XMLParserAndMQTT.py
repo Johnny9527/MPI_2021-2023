@@ -1,14 +1,13 @@
-# importing element tree under the alias of ET
 import xml.etree.ElementTree as ET
 from decimal import Decimal, ROUND_HALF_UP
 import os
 from datetime import datetime
 
 # Passing the path of the xml document to enable the parsing process
-# tree = ET.parse('C:\\MyStuffs\Test\Results_20210311135707.xml')  # 20210311 FE01.xps
+tree = ET.parse('C:\\MyStuffs\Test\Results_20210311135707.xml')  # 20210311 FE01.xps
 # tree = ET.parse('C:\\MyStuffs\Test\Results_20210311135929.xml')  # 20210311 FE10.xps
 # tree = ET.parse('C:\\MyStuffs\Test\Results_20210312095743.xml')  # 20210312 Al-01.xps
-tree = ET.parse('C:\\MyStuffs\Test\Results_20210312100001.xml')  # 20210312 Al-30.xps
+# tree = ET.parse('C:\\MyStuffs\Test\Results_20210312100001.xml')  # 20210312 Al-30.xps
 # tree = ET.parse('C:\\MyStuffs\Test\Results_20210312122437.xml')  # 20210312 NI-01.xps
 
 # getting the parent tag of the xml document
@@ -135,9 +134,6 @@ with open('C:\\MyStuffs\Test\outputResult.txt', 'w') as f:
     print('---read & write XML script end---')
 
 f.close()
-
-# read the outputResult file and run the command prompt to publish data through MQTT broker
-# os.system('cmd /c "cd C:\Mosquitto & mosquitto_pub -h 10.72.55.30 -t C_1 -m 0.5765 -u mqttuser2 -P Mqtt123456"')
 
 # set the default value of each element to zero
 print('---start data cleaning, please wait---')
