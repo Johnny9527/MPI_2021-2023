@@ -6,7 +6,7 @@
 
 * During my time at the Institute, I was involved in several projects, mainly focusing on optimizing the production processes of our clients using the latest digital technologies, such as Industrial 4.0 and Digital Twins. In other words, my job is to create a secure and efficient connection between the physical and digital worlds, which also means I have solid experience in both hardware and software.
 
-* I've put some of my works in this repository, please refers to other files for further information.
+* I've put some of my works in the repository, please refers to other files for further information, including:
 
   * Code Development:
       * REST API for ThingWorx.
