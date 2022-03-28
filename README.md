@@ -16,9 +16,10 @@
   * Client Training:
       * Caster trial data upload, view, and analyse.
 
-  * Platform Optimization:
+  * Platform Configuration and Optimization:
       * NPP dashboard.
       * ThingWorx analytics 9 installation.
+      * Create a console for partners to upload their historical data to ThingWorx for analysis.
 
 ### Disclaimer:
 
