@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: chris.paterson & johnny.lee
-"""
-
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import csv
