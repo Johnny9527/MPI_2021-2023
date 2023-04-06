@@ -6,7 +6,7 @@
 
 * During my time at the Institute, I was involved in several projects, mainly focusing on optimizing the production processes of our clients using the latest digital technologies, such as Industrial 4.0 and Digital Twins. In other words, my job is to create a secure and efficient connection between the physical and digital worlds, which also means I have solid experience in both hardware and software.
 
-* I've put some of my works in the repository, please refers to other files for further information, including:
+* I've put some of my works in the repository, please refers to other files for further information.
 
   * Code Development:
       * REST API for ThingWorx.
@@ -20,6 +20,12 @@
       * NPP dashboard.
       * ThingWorx analytics 9 installation.
       * Create a console for partners to upload their historical data to ThingWorx for analysis.
+      
+  * Project Management:
+      * Led a small project to improve the VIM (Vacuum Induction Melting) process at MPI's Normanton Pilot Plant by transferring local data to the Microsoft Azure Cloud Platform. Held cross-department meetings, designed system structures, planned working schedules, and created visualized webpages using C# and ASP.NET.
+      
+  * Other works:
+      * Customized various programmable services on the PTC ThingWorx IIoT Platform according to internal and external user needs.
 
 ### Disclaimer:
 
